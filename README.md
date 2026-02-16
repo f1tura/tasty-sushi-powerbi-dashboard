@@ -32,10 +32,10 @@
 
 ## Скриншоты
 ### Страница 1 — Обзор
-![Обзор](images/page1_overview.png)
+![Обзор](images/page1_overview.jpg)
 
 ### Страница 2 — Города и спрос
-![Города и спрос](images/page2_top_cities.png)
+![Города и спрос](images/page2_top_cities.jpg)
 
 ### Страница 3 — Матрица City × Category
-![Матрица](images/page3_matrix.png)
+![Матрица](images/page3_matrix.jpg)
